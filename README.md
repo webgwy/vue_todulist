@@ -1,4 +1,4 @@
-# project
+# 学习vue小组件
 
 > this is my vue project
 
